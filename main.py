@@ -75,4 +75,8 @@ print(collection)  # Печать всех визитов
 collection.sort_by_number()  # Сортировка по номеру
 collection.save_to_csv('sorted_data.csv')  # Сохранение отсортированных данных
 '# Feature branch change' 
+<<<<<<< HEAD
 "# Conflict from original" 
+=======
+"# Conflict from clone" 
+>>>>>>> fd07496ef11a9362d67997b9eb29951cb19afd66
